@@ -15,7 +15,7 @@ PWA-Budget is an interactive budget tracker that allows a user to add and subtra
 * Express.js
 * MongoDB
 * Mongoose
-* IndexDB
+* IndexedDB
 * Progressive Web Application standards (service worker, manifest)
 
 ## Installation
